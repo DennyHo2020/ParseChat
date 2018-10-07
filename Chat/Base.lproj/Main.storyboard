@@ -73,7 +73,6 @@
         <!--Home-->
         <scene sceneID="CfX-yK-VvB">
             <objects>
-                <placeholder placeholderIdentifier="IBFirstResponder" id="XrQ-iW-d7q" userLabel="First Responder" sceneMemberID="firstResponder"/>
                 <viewController storyboardIdentifier="HomeViewController" id="ROC-mL-gNZ" customClass="HomeViewController" customModule="Chat" customModuleProvider="target" sceneMemberID="viewController">
                     <view key="view" contentMode="scaleToFill" id="P8p-8Y-4lQ">
                         <rect key="frame" x="0.0" y="0.0" width="375" height="667"/>
@@ -186,6 +185,7 @@
                         <outlet property="chatTableView" destination="f8E-jk-mX9" id="TcF-El-Ga4"/>
                     </connections>
                 </viewController>
+                <placeholder placeholderIdentifier="IBFirstResponder" id="XrQ-iW-d7q" userLabel="First Responder" sceneMemberID="firstResponder"/>
             </objects>
             <point key="canvasLocation" x="868" y="117.39130434782609"/>
         </scene>
